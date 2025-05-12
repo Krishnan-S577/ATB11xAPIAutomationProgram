@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pin code Verification Project">
+    <test verbose="2" preserve-order="true" name="C:/Users/skris/IdeaProjects/ATB11xAPIAutomationProgram">
+        <classes>
+            <class name="com.testingacademy.ex_06_TestAssertions.Lab026_Assertions">
+            </class>
+        </classes>
+    </test>
+</suite>
